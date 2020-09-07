@@ -1,0 +1,17 @@
+.Header{
+    text-align: left;
+}
+
+.Header nav{
+    background-color: blueviolet;
+    line-height: 60px;
+    font-size: 30px;
+}
+
+nav a{
+    
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+}
