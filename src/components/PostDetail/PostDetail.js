@@ -41,8 +41,7 @@ const PostDetail = () => {
             .catch(error => console.log(error))
     }, [])
     return (
-        <div>
-            <h2>Post Id: {id}</h2>
+        <div className="post">
             <Grid container justify="center">
                 <Card className={classes.root}>
                     <CardActionArea>

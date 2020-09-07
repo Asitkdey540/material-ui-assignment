@@ -18,7 +18,7 @@ function App() {
 
       <Router>
         <Switch>
-          <Route path="/post">
+          <Route path="/blog-post">
             <Fetch />
           </Route>
           <Route path="/postDetail/:id">
