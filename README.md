@@ -10,7 +10,7 @@
 - Comments with dynamic image API.
 - Used React router for view comments.
 - Material design.
-- Used Material UI gride system
+- Used Material UI grid system
 
 ### Build With:
 1. HTML5
