@@ -20,3 +20,5 @@
 5. React Router
 6. React hook form
 7. Firebase authentication
+
+**[Resume](https://drive.google.com/file/d/1iAdMTcG5qCkF2c9VHihvDcUAqYWcbmQ6/view?usp=drivesdk)**
